@@ -1,10 +1,4 @@
-/* =========================================================
-   5 pages : index / produits / cooperatives / associations / contact
-   Couleurs : vert argan #1E3D2F, or #C99A2B,
-              miel #F2C572, creme #FBF6EC
-   ========================================================= */
 
-/* ===== 1. BASE ===== */
 * {
   margin: 0;
   padding: 0;
@@ -17,9 +11,9 @@ html {
 }
 
 body {
-  background: #FBF6EC;
-  color: #2B2118;
-  line-height: 1.6;
+  background: #ecb547;
+  color: #745741;
+  line-height: 2.6;
 }
 
 .conteneur {
